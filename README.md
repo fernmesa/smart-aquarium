@@ -1,2 +1,3 @@
 # smart-aquarium
-Open-source aquarium controller for Raspberry Pi with temperature monitoring, pH sensors, and live camera streaming
+Educational guide + framework for smart aquarium
+Not yet tested in production. Contributions welcome!
